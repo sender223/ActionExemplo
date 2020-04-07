@@ -1,0 +1,9 @@
+﻿using System;
+
+namespace ActionExemplo {
+    class Program {
+        static void Main(string[] args) {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
